@@ -1,7 +1,10 @@
 var http = require('http');
 
 function getURL(page){
-  return "http://tws.target.com/searchservice/item/search_results/v2/by_keyword?navigation=true&category=22510&view_type=medium&sort_by=bestselling&facets=&offset=0&pageCount=120&page="+
+  var offset = (page - 1) * 120;
+  return "http://tws.target.com/searchservice/item/search_results/v2/by_keyword?navigation=true&category=22510&view_type=medium&sort_by=bestselling&facets=&offset="+
+    offset+
+    "&pageCount=120&page="+
     page+
     "&response_group=Items%2CVariationSummary&zone=PLP&isLeaf=false&custom_price=false&min_price=from&max_price=to";
 }
@@ -10,6 +13,7 @@ function parseProducts(data, onProduct){
   data.searchResponse.items.Item.forEach(function(item){
     onProduct({title:item.title, upc:item.upc, asin:item.itemAttributes.asin});
   });
+  return data.searchResponse.items.Item.length;
 }
 
 function fetchProducts(onProduct, page){
@@ -21,9 +25,9 @@ function fetchProducts(onProduct, page){
       allData += chunk;
     });
     res.on('end', function(){
-      parseProducts(JSON.parse(allData), onProduct);
-
-      fetchProducts
+      if(parseProducts(JSON.parse(allData), onProduct)){
+        fetchProducts(onProduct, page+1);
+      }
     });
   }).on('error', function(e) {
     console.log("Got error: " + e.message);
