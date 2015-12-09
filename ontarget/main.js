@@ -16,7 +16,7 @@ function parseProducts(data, onProduct){
   return data.searchResponse.items.Item.length;
 }
 
-function fetchProducts(onProduct, page){
+function fetchProducts(onProduct, onDone, page){
   page = page || 1;
 
   http.get(getURL(page), function(res){
@@ -26,7 +26,10 @@ function fetchProducts(onProduct, page){
     });
     res.on('end', function(){
       if(parseProducts(JSON.parse(allData), onProduct)){
-        fetchProducts(onProduct, page+1);
+        fetchProducts(onProduct, onDone, page+1);
+      }
+      else{
+        onDone();
       }
     });
   }).on('error', function(e) {
@@ -35,9 +38,14 @@ function fetchProducts(onProduct, page){
 }
 
 
+var allProducts = [];
 
-function debugProduct(product){
-  console.log(product);
+function collectProduct(product){
+  allProducts.push(product);
 }
 
-fetchProducts(debugProduct);
+function done(){
+  console.log(JSON.stringify(allProducts, undefined, 2));
+}
+
+fetchProducts(collectProduct, done);
