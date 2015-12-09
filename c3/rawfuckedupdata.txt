@@ -158,3 +158,2475 @@
   upc: '792189452502',
   price_target: 13.86,
   price_amazon: undefined }
+{ title: 'International Playthings iPlay Funtime Tractor',
+  upc: '020373020337',
+  price_target: 31.34,
+  price_amazon: undefined }
+{ title: 'Girls\' Tights -  Winter White 7-10',
+  upc: '490360910376',
+  price_target: 4.99,
+  price_amazon: undefined }
+{ title: 'Hape Wooden Instrument Bench',
+  upc: '878318004481',
+  price_target: NaN,
+  price_amazon: 12.04 }
+{ title: 'Boys\' Despicable Me 2 5-Pack Briefs - Assorted 6',
+  upc: '045299010170',
+  price_target: 9.79,
+  price_amazon: 14.98 }
+{ title: 'Boys\' 10-Pack Crew Socks - Black 3-10',
+  upc: '490360504711',
+  price_target: 6.99,
+  price_amazon: undefined }
+{ title: 'Girls\' 10-Pack Crew Socks - White M',
+  upc: '077039138264',
+  price_target: 6.99,
+  price_amazon: undefined }
+{ title: 'SmartMax Basic 25 Piece Kit with Bonus Car',
+  upc: '847563009589',
+  price_target: 40.99,
+  price_amazon: 59.88 }
+{ title: 'Fisher-Price Octonauts Gup Speeders Octopod Launcher',
+  upc: '746775304874',
+  price_target: 10.08,
+  price_amazon: undefined }
+{ title: 'Star Wars™ Command Death Star Strike Set',
+  upc: '653569991663',
+  price_target: 10.48,
+  price_amazon: 8.76 }
+{ title: 'American Flag Apron',
+  upc: '490441502971',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Would You Rather? Board Game',
+  upc: '778988080092',
+  price_target: 10.77,
+  price_amazon: 9.99 }
+{ title: 'Boys\' Star Wars Darth Vader Baseball Hat',
+  upc: '888783167475',
+  price_target: 4.98,
+  price_amazon: undefined }
+{ title: 'Threshold™ Faux Fur Stool',
+  upc: '490651525944',
+  price_target: 54.99,
+  price_amazon: undefined }
+{ title: 'Spin Master Games - Best of Movies & TV Board Game',
+  upc: '778988068311',
+  price_target: 19.24,
+  price_amazon: undefined }
+{ title: 'Girls\' 10-Pack Bobby Socks - Circo - Buff White M',
+  upc: '490360210711',
+  price_target: 6.99,
+  price_amazon: undefined }
+{ title: 'Fisher-Price® Jake and The Never Land Pirates - Jake\'s Battle at Shipwreck Falls Playset',
+  upc: '746775302580',
+  price_target: 35,
+  price_amazon: undefined }
+{ title: 'Sponge Buddy Square Pants',
+  upc: '886144823862',
+  price_target: 20.98,
+  price_amazon: undefined }
+{ title: 'Circo™ Super Soft Baby Blanket - City on the Go',
+  upc: '490300265634',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'New Bright RC Full Function Sport Car Camaro',
+  upc: '050211102932',
+  price_target: 25.48,
+  price_amazon: undefined }
+{ title: 'New Bright Rc Full Function Sport Car Mustang',
+  upc: '050211102949',
+  price_target: 25.48,
+  price_amazon: undefined }
+{ title: 'Girls\' Turtleneck -  Black S',
+  upc: '490320336093',
+  price_target: 3.5,
+  price_amazon: undefined }
+{ title: 'Women\'s Mad Love® Lenora Ankle Wedge Booties - Ivory 8',
+  upc: '490961217720',
+  price_target: 14.98,
+  price_amazon: undefined }
+{ title: 'Circo™ 2 pack Pants - Black/Gray 0-3M',
+  upc: '492060528462',
+  price_target: 3.48,
+  price_amazon: undefined }
+{ title: 'Star Wars™ Rebels Ezra Figure',
+  upc: '039897782270',
+  price_target: 10.48,
+  price_amazon: undefined }
+{ title: 'Whoozit Plush Infant Toy',
+  upc: '011964410415',
+  price_target: 16.56,
+  price_amazon: 10.9 }
+{ title: 'Chevron Fit & Flare Dress w/ Belt Navy S - Lily Star',
+  upc: '492581500107',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'LeapFrog LeapTV Disney Sofia the First Educational, Active Video Game',
+  upc: '708431391512',
+  price_target: 9.87,
+  price_amazon: undefined }
+{ title: 'Battle of the Sexes® Board Game',
+  upc: '778988990452',
+  price_target: 7.46,
+  price_amazon: undefined }
+{ title: 'Star Wars™ Rebels Kanan Figure',
+  upc: '039897782287',
+  price_target: 7.7,
+  price_amazon: undefined }
+{ title: 'Hanes® Premium - Men\'s Sleep Shorts Blue 4XL',
+  upc: '645619625369',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Arctic Quest Men\'s Snow Pants - Black M',
+  upc: '888282073871',
+  price_target: 29.99,
+  price_amazon: undefined }
+{ title: 'Circo™ Valboa Baby Blanket - Sheep & Co.',
+  upc: '490300265245',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Fisher-Price Thomas & Friends Trackmaster Sort & Switch Express Delivery Set',
+  upc: '746775350611',
+  price_target: 23.78,
+  price_amazon: 23.44 }
+{ title: 'Metal Table Lamp with Cream Shade',
+  upc: '083086079443',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Girls\' Hello Kitty Pajamas - Pink M',
+  upc: '490750851999',
+  price_target: 9.08,
+  price_amazon: undefined }
+{ title: 'Hanes® Premium - Men\'s Sleep Pants Green M',
+  upc: '645619625512',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Gender Neutral Footed Sleepers Just One You 9 M Vanilla Cream',
+  upc: '889338053021',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Hasbro® Scrabble Electronic Banking',
+  upc: '653569976820',
+  price_target: 8.19,
+  price_amazon: undefined }
+{ title: 'Toddler Boys\' Best Bro Raglan Tee - Cherry Tomato 3T',
+  upc: '490330123751',
+  price_target: 2.5,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Women\'s Premium Must Have Legging Black Heather M',
+  upc: '492140333634',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Fieldcrest® Luxury Premium Blanket - Tudor Brown (King)',
+  upc: '490620200728',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Graco Pack \'n Play Playard with Reversible Napper and Changer - Scribbles',
+  upc: '047406118397',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Nickelodeon Dora Charm Game',
+  upc: '047754143010',
+  price_target: 11.86,
+  price_amazon: undefined }
+{ title: 'Air Hogs RC FireWing - Red R/C Flying Bird',
+  upc: '778988090480',
+  price_target: 34.98,
+  price_amazon: undefined }
+{ title: 'Siracha Humor Boys\' Graphic Tee - Red L',
+  upc: '490760679231',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Hello Kitty™ Dance Time Plush - Dance',
+  upc: '658382211974',
+  price_target: 18.48,
+  price_amazon: 16.49 }
+{ title: 'Circo™ Woven Fitted Crib Sheet - Pink',
+  upc: '490300230847',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Girls\' 6-Pack Crew Socks - Assorted Solids 9-2.5',
+  upc: '490360305561',
+  price_target: 5.49,
+  price_amazon: undefined }
+{ title: 'Mega Bloks® Call of Duty Claw Assault',
+  upc: '065541068551',
+  price_target: 9.72,
+  price_amazon: 18.58 }
+{ title: 'Girls\' 2-Pack Knee High Cable Socks - Winter White 9-2.5',
+  upc: '490360303598',
+  price_target: 4.99,
+  price_amazon: undefined }
+{ title: 'Girl\'s S Sport Designed by Skechers™ Slip on Sneaker - Black 13',
+  upc: '888222552602',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Air Hogs RC FireWing - Yellow R/C Flying Bird',
+  upc: '778988069554',
+  price_target: 34.98,
+  price_amazon: undefined }
+{ title: 'Threshold™ Striped Sheer Curtain Panel - Gray (54x95")',
+  upc: '490680306118',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Zombie Humor Boys\' Graphic Tee - Red Light M',
+  upc: '490760667337',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Boys\' Fruit Of The Loom&#174 5-pack Tartan Plaid Boxers - Multicolor L',
+  upc: '076031385782',
+  price_target: 10.99,
+  price_amazon: undefined }
+{ title: 'Girls‘ Rolled-Hem Short - Bistro Blue M',
+  upc: '492050480527',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Toddler Boys\' Striped Tee - Silver Foil 5T',
+  upc: '490330124291',
+  price_target: 2.25,
+  price_amazon: undefined }
+{ title: 'Women\'s S Sport Designed by Skechers™ Strolz - Mint Green 9',
+  upc: '888222950323',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'L\'Oreal® Paris Voluminous Extra-Volume Collagen Mascara - Waterproof Black 690',
+  upc: '071249156322',
+  price_target: NaN,
+  price_amazon: 6.97 }
+{ title: 'Spin Master Games - What the Face Board Game',
+  upc: '778988068717',
+  price_target: 15.4,
+  price_amazon: 5 }
+{ title: 'Spongebob Squarepants Boys‘ Graphic Tee - Yellow S',
+  upc: '490760680954',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Bootcut Yoga Pant Black L - Mossimo Supply Co.',
+  upc: '490171015123',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'Fisher-Price® Disney Mickey Mouse Clubhouse Wobble Bobble Choo Choo',
+  upc: '746775360863',
+  price_target: 17.84,
+  price_amazon: 28.39 }
+{ title: 'Graco Simple Snuggles Bouncer - Scribbles',
+  upc: '047406122165',
+  price_target: 41.98,
+  price_amazon: 74.99 }
+{ title: 'Disney Frozen Girls\' Graphic Tee - Lavender M',
+  upc: '490320830058',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'Boys\' Superman Graphic Tee - Navy/Red M',
+  upc: '490760696771',
+  price_target: 5,
+  price_amazon: undefined }
+{ title: 'Super Mario Boys\' Graphic Tee - Blue M',
+  upc: '490760682415',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Boys\' SpongeBob SquarePants 3-Piece Mix & Match Pajama Set - Yellow 4',
+  upc: '490750133576',
+  price_target: 7.98,
+  price_amazon: undefined }
+{ title: 'Mega Bloks® SpongeBob SquarePants - Invisible Boatmobile Rescue',
+  upc: '492040707597',
+  price_target: 8.37,
+  price_amazon: undefined }
+{ title: 'Boys\' Batman Graphic Tee - Light Grey L',
+  upc: '490760696733',
+  price_target: 5,
+  price_amazon: undefined }
+{ title: 'Toddler Girls Floral Lounge Short - Neon 5T',
+  upc: '490310170119',
+  price_target: 2.25,
+  price_amazon: undefined }
+{ title: 'Infant Toddler Boys\' Straight Leg Jean - Dark Blue 7',
+  upc: '490330302125',
+  price_target: 6,
+  price_amazon: undefined }
+{ title: 'Graco Little Lounger - Dakota',
+  upc: '047406121731',
+  price_target: NaN,
+  price_amazon: 55.98 }
+{ title: 'Girls\' Jean Shortall - DK Denim M',
+  upc: '492050495224',
+  price_target: 12.58,
+  price_amazon: undefined }
+{ title: 'Toddler Boys Knit Lounge Short - Ebony 4T',
+  upc: '490330137130',
+  price_target: 2.5,
+  price_amazon: undefined }
+{ title: 'Toddler Girls\' Paperbag Shorts - Sunrise Coral 4T',
+  upc: '490310161049',
+  price_target: 2.25,
+  price_amazon: undefined }
+{ title: 'Hape Mini Garage',
+  upc: '878318004542',
+  price_target: NaN,
+  price_amazon: 21.85 }
+{ title: 'Women\'s C9 Champion® Legend Running Shoe - Purple 8',
+  upc: '490980714842',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Girls\' 10-Pack Lowcut Socks - White S',
+  upc: '077039117764',
+  price_target: 6.99,
+  price_amazon: undefined }
+{ title: 'Lalaloopsy Girls Basic Doll- Dyna Might',
+  upc: '035051533740',
+  price_target: 7.68,
+  price_amazon: 14.99 }
+{ title: 'Girls\' Flat Front Short Pita Bread 4 - Cherokee®',
+  upc: '490380351524',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Freestyle&#174 by Danskin&#174 Girls\' Cami Leotard -  Black L(10-12)',
+  upc: '490750716892',
+  price_target: 12.99,
+  price_amazon: undefined }
+{ title: 'Acrylic Swivel Bowl Set of 4 - Clear',
+  upc: '876770000911',
+  price_target: 9.98,
+  price_amazon: 28.99 }
+{ title: 'Minecraft Boys\' Creeper Squad Graphic Tee - Kelly Green XS',
+  upc: '490760679255',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Men\'s L Superman Sweater Navy',
+  upc: '490430197911',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Toddler Boys\' How to Train Your Dragon Pajamas - Red 2T',
+  upc: '886166743933',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Pointelle Thong Charcoal - Gilligan & O\'Malley® - M',
+  upc: '490220337336',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Fisher-Price Thomas & Friends TrackMaster Essential Engines Gift Pack',
+  upc: '887961030365',
+  price_target: 31.48,
+  price_amazon: 42 }
+{ title: 'Toddler Boys\' Striped Monkey Tee - Gray Mist 3T',
+  upc: '490330137468',
+  price_target: 2.5,
+  price_amazon: undefined }
+{ title: 'Women‘s Button-front Shell - Hot Coral L',
+  upc: '490180115821',
+  price_target: 5.38,
+  price_amazon: undefined }
+{ title: 'Mega Bloks® Assassin\'s Creed Gunboat Takeover',
+  upc: '065541943087',
+  price_target: 16.79,
+  price_amazon: undefined }
+{ title: 'Women‘s Strappy Halter Bikini Top Fuchsia Pink/Slate Grey Stripe  M - Mossimo',
+  upc: '492380154020',
+  price_target: 17.99,
+  price_amazon: undefined }
+{ title: 'Graco Pack \'n Play Element Playard - Pippa',
+  upc: '047406123261',
+  price_target: NaN,
+  price_amazon: 77.98 }
+{ title: 'Boyfriend V Tee Light Grey Heather XXL - Mossimo Supply Co.',
+  upc: '490170025291',
+  price_target: 3.6,
+  price_amazon: undefined }
+{ title: 'Star Wars Boba Fett\'s Slave I Vehicle',
+  upc: '653569896630',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Brush Buddies Soniclean™ Pro 5000 Rechargeable Sonic Toothbrush',
+  upc: '852060003688',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Hanes® Premium - Men\'s Sleep Pants Blue L',
+  upc: '645619626380',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Circo® Kathryn Animal Print Sneakers - Pink 8',
+  upc: '490930130289',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Round Ottoman - Faded Blue Diamonds',
+  upc: '859217307408',
+  price_target: 32.48,
+  price_amazon: undefined }
+{ title: 'SugarBooger Divided Suction Plate - Numbers',
+  upc: '732389018986',
+  price_target: NaN,
+  price_amazon: 14.98 }
+{ title: 'Disney® Minnie Mouse Toddler Girls Cutie Tee - Heather Gray 3T',
+  upc: '493080301417',
+  price_target: 6.3,
+  price_amazon: undefined }
+{ title: 'Toddler Girls Striped Lounge Short - Pink Lemonade 5T',
+  upc: '490310169595',
+  price_target: 2.25,
+  price_amazon: undefined }
+{ title: 'Women\'s Printed Crepe Came Merona® Joyful Mint S',
+  upc: '490180212162',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Women\'s Premium Hoodie Raspberry XS',
+  upc: '492140720069',
+  price_target: 19.98,
+  price_amazon: undefined }
+{ title: 'Threshold™ Slipper Chair - Blue Floral',
+  upc: '677446135636',
+  price_target: 84.98,
+  price_amazon: undefined }
+{ title: 'Loose Tank Top Pale Mint M - Mossimo Supply Co.',
+  upc: '490170040010',
+  price_target: 5,
+  price_amazon: undefined }
+{ title: 'Boys‘ Henley - Del Rio Blue M',
+  upc: '490760383381',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'Women‘s Mesh Hipsters Mochaccino 2-Pack - Gilligan & O‘Malley®',
+  upc: '490220548602',
+  price_target: 5.48,
+  price_amazon: undefined }
+{ title: 'Newborn Girls\' Bodysuit Lap Shoulder - Cabana Blue 0-3 M',
+  upc: '492060770151',
+  price_target: 2.5,
+  price_amazon: undefined }
+{ title: 'Captain America Toddler Boys\' Raglan Tee - Dark Gray 5T',
+  upc: '490331314745',
+  price_target: 5.6,
+  price_amazon: undefined }
+{ title: 'Eddie Bauer® Endurance Jogging Stroller - Flare',
+  upc: '884392586744',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Newborn Girls\' Lace Romper',
+  upc: '492060378388',
+  price_target: 8,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Women\'s High Waist Mesh Capri Black Heather',
+  upc: '492140613095',
+  price_target: 12.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Wild Flower Print Infinity Crinkle Scarf - Ivory - Mossimo Supply Co.™',
+  upc: '490610819008',
+  price_target: 5.24,
+  price_amazon: undefined }
+{ title: 'Jack Sculpture - Gold - Threshold™',
+  upc: '490651512951',
+  price_target: 2.38,
+  price_amazon: undefined }
+{ title: 'Simply Perfect by Warner‘s® Women‘s No Muffin Top Hipster 5638TA Almond',
+  upc: '046863064261',
+  price_target: 4.2,
+  price_amazon: undefined }
+{ title: 'Butterfly Print Infinity Crinkle Scarf White - Mossimo Supply Co.™',
+  upc: '490610819039',
+  price_target: 5.24,
+  price_amazon: undefined }
+{ title: 'C9 by Champion® Mens Full Zip Hoodie - Charcoal Heather XXL',
+  upc: '492810213815',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Blue Orange Spot It Fire & Ice',
+  upc: '490871008883',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Simply Perfect by Warner‘s® Women‘s No Muffin Top Lace Hipster 5609TA Pin Dot Print',
+  upc: '046863084641',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Monster High Frights Camera Action Black Carpet  Clawdeen Wolf Doll',
+  upc: '746775299668',
+  price_target: 10.48,
+  price_amazon: undefined }
+{ title: 'Pursonic Dual Electric Toothbrush Set',
+  upc: '851695002622',
+  price_target: 43.98,
+  price_amazon: 87.55 }
+{ title: 'Copper Fig Figurine - Threshold™',
+  upc: '490651531266',
+  price_target: 2.38,
+  price_amazon: undefined }
+{ title: 'Girl\'s Cherokee® Grace Fashion Boots - Taupe 2',
+  upc: '490930939547',
+  price_target: 19.58,
+  price_amazon: undefined }
+{ title: 'Women\'s Polka Dot Print Infinity Crinkle Scarf - Tan - Mossimo Supply Co.™',
+  upc: '490610819053',
+  price_target: 5.24,
+  price_amazon: undefined }
+{ title: 'SugarBooger Covered Suction Bowl and Utensil Set - Numbers',
+  upc: '732389018993',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Despicable Me Boys\' Graphic Tee - Orange  Xs',
+  upc: '490760670887',
+  price_target: 2.25,
+  price_amazon: undefined }
+{ title: 'Minions Toddler Boys\' Striped Muscle Tank - Rich Charcoal 3T',
+  upc: '490331311324',
+  price_target: 4.9,
+  price_amazon: undefined }
+{ title: 'Girls\' 6-Pack Athletic Ankle Socks - Purple/Blue/Pink 9-2.5',
+  upc: '490360303215',
+  price_target: 5.49,
+  price_amazon: undefined }
+{ title: 'Transformers® Age of Extinction Grimlock One-Step Changer',
+  upc: '653569917953',
+  price_target: 4.88,
+  price_amazon: undefined }
+{ title: 'Wingz Long Bow',
+  upc: '885954471003',
+  price_target: 2.96,
+  price_amazon: 18.42 }
+{ title: 'Mega Bloks® Halo Police Cruiser Standoff',
+  upc: '065541974524',
+  price_target: 7.95,
+  price_amazon: 18.33 }
+{ title: 'Hanes® Premium - Men\'s Sleep Pants Orange M',
+  upc: '645619626328',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Spiderman Toddler Boys\' Athletic Tee - Red 5T',
+  upc: '490331312628',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Girls\' Tiered Skirt - Heather M',
+  upc: '490320094603',
+  price_target: 4,
+  price_amazon: undefined }
+{ title: 'Women\'s Printed Crepe Blouse Merona® Joyful Mint XXL',
+  upc: '490180212742',
+  price_target: 6.88,
+  price_amazon: undefined }
+{ title: 'Toddler Girls\' Zip-up Hoodie - Moxie Peach 3T',
+  upc: '490310145452',
+  price_target: 6,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Circo® Katrina Flip Flop Sandals - Pink S',
+  upc: '490931003353',
+  price_target: 5.58,
+  price_amazon: undefined }
+{ title: 'Girls\' Embroidered Jean Short - White L',
+  upc: '492050428703',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Girls\' Relaxed Crop Jean - Blue Glow 14',
+  upc: '492050399089',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Archer Bonded Leather Chair - Black',
+  upc: '065857167740',
+  price_target: 164.98,
+  price_amazon: undefined }
+{ title: 'Hexbug Tagamoto Drift Playset',
+  upc: '807648026689',
+  price_target: 14,
+  price_amazon: undefined }
+{ title: 'John Deere Garden Cart',
+  upc: '065541808508',
+  price_target: 17.5,
+  price_amazon: 19.99 }
+{ title: 'Vicks DayQuil/NyQuil Severe Cold & Flu Twin Pack - 12 fl oz each',
+  upc: '323900017788',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Heathrow 8 Piece Comforter Set - King',
+  upc: '490602600843',
+  price_target: 49.98,
+  price_amazon: undefined }
+{ title: 'LeapFrog LeapReader Book Disney Sofia the First: The Buttercup Way (works with Tag)',
+  upc: '708431214156',
+  price_target: 9.78,
+  price_amazon: 13.99 }
+{ title: 'Wonderology – Science Kit – Amazing Ocean Aliens',
+  upc: '778988080795',
+  price_target: 8.24,
+  price_amazon: 12.99 }
+{ title: 'Denizen® - Men\'s Straight Leg Jeans Rustic  34x32',
+  upc: '052176737082',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Boys\' Disney&#174 Mickey Mouse  Patriotic Graphic Tee - Red XS',
+  upc: '490760630775',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Colored Organics™ Newborn 2 Pack Bodysuit Giftset - Yellow/Grey 0-3 M',
+  upc: '841158101856',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Banzai Shade ‘N Sun Zebra Inflatable Swimming Pool',
+  upc: '026753381821',
+  price_target: 8.74,
+  price_amazon: 8.99 }
+{ title: 'Women\'s Eyelet Popover Favorite Shirt Merona® Sebring White XL',
+  upc: '490180209971',
+  price_target: 6.88,
+  price_amazon: undefined }
+{ title: 'Circo™ 4pc Crib Bedding Set - Classic Patchwork',
+  upc: '490300264644',
+  price_target: 44.98,
+  price_amazon: undefined }
+{ title: 'Men\'s Mossimo Supply Co. Reed Oxford - Black 9.5',
+  upc: '490980069348',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Men\'s Tee Shirt Light Grey L',
+  upc: '490440606700',
+  price_target: 4.98,
+  price_amazon: undefined }
+{ title: 'Newborn 3 Pk Shortsleeve Bodysuit Almond Cream - Cherokee 3-6M',
+  upc: '',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'MANGROOMER Scruff Sculptor Stubble Trimmer',
+  upc: '853496003907',
+  price_target: 23.98,
+  price_amazon: 47.61 }
+{ title: 'New Bright Corvette Stingray Green Chld',
+  upc: '050211010299',
+  price_target: 28.68,
+  price_amazon: 499.99 }
+{ title: 'Disney® Elsa Infant Toddler Girls Tunic Dress - White/Neon Pink 4T',
+  upc: '490311309181',
+  price_target: 9,
+  price_amazon: undefined }
+{ title: 'Threshold 6pk Dripless Tapers - White',
+  upc: '490540913722',
+  price_target: 5.24,
+  price_amazon: undefined }
+{ title: 'Hanes® Premium - Men\'s Sleep Pants Blue M',
+  upc: '645619625567',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Girls\' Tiered Skirt - Turbine Gray S',
+  upc: '490320094696',
+  price_target: 4,
+  price_amazon: undefined }
+{ title: 'Women\'s Short Sleeve Cowl Neck Top Peacoat M - Cherokee®',
+  upc: '492300101738',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Men\'s Merona® Remington Flip Flop Sandals - Brown M(9-10)',
+  upc: '490980103462',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Newborn Boys\' 3 Pack Set Light Indigo - Cherokee 3-6M',
+  upc: '',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Fotorama The Visions of Johnny the Skull Skill and Action Game',
+  upc: '730002030063',
+  price_target: 13.85,
+  price_amazon: undefined }
+{ title: 'Dove Shampoo Cool Moisture 25.4oz',
+  upc: '079400206800',
+  price_target: 3.48,
+  price_amazon: 16.5 }
+{ title: 'Minions Toddler Boys\' Mr. Independent Tee - Red Heat 5T',
+  upc: '490331312178',
+  price_target: 5.6,
+  price_amazon: undefined }
+{ title: 'Smashing Pumpkins Toddler Boys\' Tee - Navy 5T',
+  upc: '490331311768',
+  price_target: 7,
+  price_amazon: undefined }
+{ title: 'Toddler Girls\' Striped Romper - Moxie Peach 2T',
+  upc: '490310161506',
+  price_target: 4,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Plus Size Ankle Legging Black 2X',
+  upc: '492140313186',
+  price_target: 22.48,
+  price_amazon: undefined }
+{ title: 'Captain America Toddler Boys\' Athletic Tee - Blue 4T',
+  upc: '490331313076',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Hello Kitty Girls\' 1-Piece Swimsuit - Pink XS',
+  upc: '492220579044',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Boys‘ Plaid Button Down - Blue L',
+  upc: '490760349974',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Women‘s Crochet One Piece Swimsuit White  L - Mossimo',
+  upc: '492380160656',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Merona® Men\'s Roller Buckle Brown Belt -M',
+  upc: '490440402517',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Ingenuity ConvertMe Swing-2-Seat - Sahara Burst',
+  upc: '074451601000',
+  price_target: 67.98,
+  price_amazon: 89.98 }
+{ title: 'Merona® Black Modern Dress Belt - L',
+  upc: '490610630559',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Despicable Me Girls\' Minion Graphic Soft Short - Almost Black L',
+  upc: '490320888288',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Girls\' Run Short',
+  upc: '490390226492',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Disney® Princess Ariel Toddler Girls Tee - Turquoise Heather 2T',
+  upc: '490311308948',
+  price_target: 6.3,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Boys\' Graphic Activewear Tank - Orange L',
+  upc: '490390504415',
+  price_target: 3.28,
+  price_amazon: undefined }
+{ title: 'Boy\'s Cherokee® Porter Flip Flop Sandals - Navy L',
+  upc: '490930819221',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s My Little Pony Flip Flop Sandals - Purple M',
+  upc: '490931001922',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Super Mario Bros. Boys\' Graphic Tee - Royal Blue S',
+  upc: '490760652180',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Baby Girls\' Hearts Cover Up Hoodie - White 18M',
+  upc: '492170536999',
+  price_target: 9,
+  price_amazon: undefined }
+{ title: 'SugarBooger Covered Suction Bowl and Utensil Set - Icky Bugs',
+  upc: '732389023256',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'SugarBooger Covered Suction Bowl and Utensil Set - Hoot',
+  upc: '732389019587',
+  price_target: NaN,
+  price_amazon: 9.58 }
+{ title: 'Men\'s Merona® Classic Analog Watch - Black',
+  upc: '881708094276',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Disney Little Mermaid Ariel Tank and Panty Set - L',
+  upc: '714147247333',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Minion Girls\' Graphic Tank - Magenta Haze M',
+  upc: '490320829380',
+  price_target: 3.98,
+  price_amazon: undefined }
+{ title: 'Captain America Girls\' Graphic Tank - Blue S',
+  upc: '889484026023',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'Girls\' Short Sleve Top with Eyelet Detail - Fresh White M',
+  upc: '490320334556',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Boys‘ Plaid Button Down - Navy M',
+  upc: '490760350017',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Men\'s Merona® Theo Oxfords - Black 10.5',
+  upc: '680940492525',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Girls‘ Cut Off Short - Nettle Green XL',
+  upc: '492050498959',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Boy\'s Circo® Parker Sneakers - Grey 1',
+  upc: '490930804845',
+  price_target: 16.99,
+  price_amazon: undefined }
+{ title: 'Threshold™  7\'x10\' Rectangular Patio Rug - Medallion',
+  upc: '839913028920',
+  price_target: 71.98,
+  price_amazon: undefined }
+{ title: 'Boys\' Camouflage Bucket Hat',
+  upc: '492020707012',
+  price_target: 4.98,
+  price_amazon: undefined }
+{ title: 'Hudson Swoop Chair - Ethnic Navy',
+  upc: '859217274601',
+  price_target: 99.98,
+  price_amazon: undefined }
+{ title: 'Just One You™Made by Carter\'s® Newborn 3 Pack Short-sleeve Elephant Family Bodysuit Set - Grey 9 M',
+  upc: '888510083207',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'Call & Chat Learning Phone',
+  upc: '',
+  price_target: 7.72,
+  price_amazon: undefined }
+{ title: 'Disney Princess Baby Cinderella',
+  upc: '678352758551',
+  price_target: 7.9,
+  price_amazon: 15.7 }
+{ title: 'Threshold™ Linden 4-Piece Sling Patio Dining Chair Set',
+  upc: '769455767783',
+  price_target: 197.4,
+  price_amazon: undefined }
+{ title: 'Eddie Bauer® Portage Stroller - Reagan',
+  upc: '884392582470',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Cherokee® Boys\' Denim Jean - Jarious 10R',
+  upc: '490461212867',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Star Wars Boys\' Rebel Life Graphic Tee - Royal Heather S',
+  upc: '490760685119',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'American Flag Spatula',
+  upc: '490441503152',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Pink Floyd Toddler Boys\' Tee - Red Heat 2T',
+  upc: '490331311799',
+  price_target: 7,
+  price_amazon: undefined }
+{ title: 'Sublime Toddler Boys\' Tee - Dark Ash 2T',
+  upc: '490331311850',
+  price_target: 7,
+  price_amazon: undefined }
+{ title: 'Supergirl Girls\' Graphic Tank - White L',
+  upc: '889484025972',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'Women‘s Gauze Tunic - Shell M',
+  upc: '490180203481',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Double Layer Tank Top Peacoat XL - Cherokee',
+  upc: '492300002578',
+  price_target: 6,
+  price_amazon: undefined }
+{ title: 'Girls\' Patterned A Line Dress -Kyoto Garden Lilac XL',
+  upc: '490320458948',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Just One You™Made by Carter\'s® Newborn Girls\' 3 Piece Bear Layette Set - Pink Preemie',
+  upc: '888510084778',
+  price_target: 9.34,
+  price_amazon: undefined }
+{ title: 'Elite Force  Assault Little Bird Playset',
+  upc: '021105043341',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'T-Rex Bones Wall Decal',
+  upc: '611356044213',
+  price_target: 7.78,
+  price_amazon: undefined }
+{ title: 'Threshold™ Painted Metal Pillar Candlestick - 7.1"',
+  upc: '096528000141',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Threshold™ 6pk Dripless Tapers - Ivory',
+  upc: '490540913715',
+  price_target: 5.24,
+  price_amazon: undefined }
+{ title: 'Air Hogs Zip Wing - Blue',
+  upc: '778988043264',
+  price_target: 5.31,
+  price_amazon: undefined }
+{ title: 'Graco Glider LX Gliding Swing - Peyton',
+  upc: '047406119561',
+  price_target: NaN,
+  price_amazon: 118.98 }
+{ title: 'Women\'s Athletic Socks 4 Pk Pink 5-9 - C9 Champion®',
+  upc: '038257112900',
+  price_target: 2.68,
+  price_amazon: 27.95 }
+{ title: 'LEGO Boys\' Graphic Tee -  LEGO GRAY S',
+  upc: '490760628499',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Women\'s Sam & Libby Toni Slide Sandal- PNK 8',
+  upc: '490960235336',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Men\'s XL Pocket Tank Top Ebony - Mossimo Supply Co.',
+  upc: '490430852582',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women\'s Seersucker Shift Dress Merona® White Gray XS',
+  upc: '490180929602',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Jacquard Classic Ankle Pant Merona® - Fresh White 12',
+  upc: '490180417819',
+  price_target: 8.38,
+  price_amazon: undefined }
+{ title: 'Circo™ Crib Skirt - White/Light Blue',
+  upc: '490300264804',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Men\'s Bootcut Jeans Light Wt Stone  - Mossimo Supply Co 30X32',
+  upc: '490421103877',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Floral 8 Piece Comforter Set - Red/Natural (California King)',
+  upc: '490602606098',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Disney Princess Baby Belle',
+  upc: '678352758520',
+  price_target: 7.9,
+  price_amazon: 19.75 }
+{ title: 'Transformers® Movie 4 Generations Deluxe Snarl',
+  upc: '653569971894',
+  price_target: 12.58,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Boys\' Novelty Mesh Shorts',
+  upc: '490390617399',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Taper Holder Black/Gold - Small - Threshold™',
+  upc: '490651509913',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'Jurassic Park Boys\' Graphic Tee - Black M',
+  upc: '490760616120',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Vivid Purple Chevron Print Tab Side Bikini Bottom L - Mossimo',
+  upc: '492380168096',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Girls‘ Cap-Sleeve Blouse - Crystalized Green L',
+  upc: '490320461818',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Hexbug Tagamoto Drift Playset',
+  upc: '807648026696',
+  price_target: 15.4,
+  price_amazon: 10.54 }
+{ title: 'Mindware Magnetic Learning Station',
+  upc: '492040402713',
+  price_target: 27.72,
+  price_amazon: undefined }
+{ title: 'Women\'s Lunea Oxford Sneaker - Black 9',
+  upc: '490961214088',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Disney Princess Baby Ariel',
+  upc: '678352758537',
+  price_target: 8.68,
+  price_amazon: 17.39 }
+{ title: 'Little Tikes Wiggimals  Cow',
+  upc: '',
+  price_target: 9.17,
+  price_amazon: undefined }
+{ title: 'Threshold™ Burlap Chevron Shade - Distant Lime Small',
+  upc: '022011628639',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'PURSONIC S300 DELUXE PLUS Toothbrush with 12 BONUS Brush Heads',
+  upc: '851695002202',
+  price_target: 29.98,
+  price_amazon: 51 }
+{ title: 'Threshold™ Silver Task Lamp with White Marble Base',
+  upc: '490651532997',
+  price_target: 61.99,
+  price_amazon: undefined }
+{ title: 'Men\'s Solid Swim Trunks Black - Merona™ XL',
+  upc: '492810028556',
+  price_target: 6.28,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Circo® Kathryn Floral Print Sneakers - Purple 10',
+  upc: '490930130845',
+  price_target: 10.48,
+  price_amazon: undefined }
+{ title: 'Toddler Boys\' Spider-Man Rash Guard - Red 2T',
+  upc: '492170426009',
+  price_target: 6,
+  price_amazon: undefined }
+{ title: 'Boys\' Power Rangers 5-Pack Briefs - Assorted 6',
+  upc: '045299009105',
+  price_target: 9.79,
+  price_amazon: 9.74 }
+{ title: 'Transformers® Age of Extinction Strafe One-Step Changer',
+  upc: '630509252008',
+  price_target: 9.35,
+  price_amazon: 9.49 }
+{ title: 'Fisher-Price® Roller Blocks Play Wall',
+  upc: '746775309701',
+  price_target: 13,
+  price_amazon: 21.19 }
+{ title: 'Mindware Train Puzzle And Rhyming Card Pack',
+  upc: '492040403109',
+  price_target: 11.86,
+  price_amazon: undefined }
+{ title: 'Jackson Upholstered Wingback Chair - Black/Brown Ikat',
+  upc: '859217173904',
+  price_target: 139.98,
+  price_amazon: undefined }
+{ title: 'Hanes® Premium - Men\'s Pajama Set Blue M',
+  upc: '645619626526',
+  price_target: 11.48,
+  price_amazon: undefined }
+{ title: 'New Bright 1:10 Full Function 6.4v R/C Corvette C7 Stingray, White',
+  upc: '',
+  price_target: 28.68,
+  price_amazon: undefined }
+{ title: 'Men\'s Golf Polo Shirt - Coollast L',
+  upc: '097987630573',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'SpongeBob Square Pants Boys‘ Graphic Tee - Yellow M',
+  upc: '490760681012',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Boys\' Shaun White Plaid Button Down -  Teal L',
+  upc: '490761709968',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Tankini Tops S Blue Polka Dots',
+  upc: '492381103409',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women\'s Plus Size V Neck Fashion Tee Pink 4X-Ava & Viv',
+  upc: '490210102180',
+  price_target: 3,
+  price_amazon: undefined }
+{ title: 'Girl\'s Hello Kitty Wedge Flip Flop Sandals - Black M',
+  upc: '490931102513',
+  price_target: 9.08,
+  price_amazon: undefined }
+{ title: 'Spongebob Squarepants Humor Boys\' Graphic Tee - Heather Grey L',
+  upc: '490760677282',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Women‘s Premium Control Top Tights Fresh White - Merona®',
+  upc: '490250048042',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'LeapFrog Learning Game: Barbie Malibu Mysteries (for LeapPad Tablets and LeapsterGS)',
+  upc: '708431322219',
+  price_target: 9.94,
+  price_amazon: 23.29 }
+{ title: 'Disney Pixar Cars Race Day Fan Gift Cars - Pack of 4',
+  upc: '027084982480',
+  price_target: 6.16,
+  price_amazon: 19.79 }
+{ title: 'Women\'s Brandy Rhinestone Thong Sandals - Grey 7',
+  upc: '490960518866',
+  price_target: 14,
+  price_amazon: undefined }
+{ title: 'Kiss Me Lucky Graphic Raglan Tee Black/Green S',
+  upc: '490060200029',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Boys\' Shaun White Short-Sleeved Chambray Button Down - Blue L',
+  upc: '490761709418',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Boy\'s Shaun White Wilshire Flip Flop Sandals - Blue M',
+  upc: '490930819252',
+  price_target: 10.48,
+  price_amazon: undefined }
+{ title: 'Shaun White Boys‘ Plaid Buttondown - Catmint M',
+  upc: '490761708602',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Plus Size Sleeveless Crochet Tank Black 3X-Ava & Viv',
+  upc: '490210218874',
+  price_target: 6.88,
+  price_amazon: undefined }
+{ title: 'Men\'s C9 by Champion® Seth Sandals - Black 8',
+  upc: '490980101260',
+  price_target: 12.74,
+  price_amazon: undefined }
+{ title: 'Boys\' Quilted Sweatshirt - Black Solid 7',
+  upc: '845906000866',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Kea Flip Flop Sandals - Pink/Yellow S',
+  upc: '490931001670',
+  price_target: 2.78,
+  price_amazon: undefined }
+{ title: 'ASSETS® by Sara Blakely a Spanx® Brand Women‘s Back Smoothing Underwire Bra Nude',
+  upc: '843953289494',
+  price_target: 12,
+  price_amazon: undefined }
+{ title: 'Girls\' 1-Piece Rainbow Swimsuit and Swim Skirt Set - Pink L',
+  upc: '492220556496',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Hanes® Women‘s All-Over-Slim Torset Bodysuit T191 Black',
+  upc: '019585350158',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Button Down Skater Skirt Black/White S - Lily Star',
+  upc: '492580509897',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'New Bright 2015 Ford Mustang Chld',
+  upc: '',
+  price_target: 31.57,
+  price_amazon: undefined }
+{ title: 'WeSC Men\'s Joakim Leather Wallet - Dark Chestnut',
+  upc: '493020201487',
+  price_target: 33.6,
+  price_amazon: undefined }
+{ title: 'Boys\' French Terry Short -  Heather Blue S',
+  upc: '490760393779',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Newborn Boys\' Bodysuits - Blue Dolphin 3-6 M',
+  upc: '492060302697',
+  price_target: 7.5,
+  price_amazon: undefined }
+{ title: 'Men\'s Mossimo Supply Co. Sullivan Flip Flop Sandals - Black S',
+  upc: '490980103295',
+  price_target: 12.74,
+  price_amazon: undefined }
+{ title: 'Women\'s Plus Size Capri Legging Pants Black X-Ava & Viv',
+  upc: '490210502607',
+  price_target: 5.08,
+  price_amazon: undefined }
+{ title: 'Girls\' 1-Piece Unicorn Swimsuit - Blue L',
+  upc: '492220510245',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Just One You™ Made by Carter\'s® Boys\' Full Body Dino Rash Guard Blue 12M',
+  upc: '700140046745',
+  price_target: 7.98,
+  price_amazon: 39.99 }
+{ title: 'Toddler Girl\'s Cherokee® Dasha Sandals - Gold 5',
+  upc: '490931002318',
+  price_target: 12.74,
+  price_amazon: undefined }
+{ title: 'Women\'s Elsie Sparkle Ballet Flats - Black 8',
+  upc: '490960010124',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Men\'s Solid Board Shorts - Gray L',
+  upc: '492810025654',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Fisher-Price® Imaginext SpongeBob SquarePants Krabby Patty Wagon',
+  upc: '746775130596',
+  price_target: 11.54,
+  price_amazon: 11.24 }
+{ title: 'Toddler Girl\'s Cherokee® Gilda Ballet Flats - Pink 6',
+  upc: '490930162839',
+  price_target: 12.74,
+  price_amazon: undefined }
+{ title: 'Avington Upholstered Slipper Chair Gray/Green Diamond Velvet',
+  upc: '859217229748',
+  price_target: 84.98,
+  price_amazon: undefined }
+{ title: 'Hanes Girls\' 2-Pack Demi Bra - Beige/Black 36',
+  upc: '019585524658',
+  price_target: 13.99,
+  price_amazon: 13.99 }
+{ title: 'Water Hyacinth Basket - Medium - Threshold™',
+  upc: '490651530498',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Girls\' Ombre Dyed A-Line Dress - Fun Pink XS',
+  upc: '490320467636',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Men\'s Elastic Waist Nylon Swim Trunk Gray - Merona™  XL',
+  upc: '492810032713',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Girl\'s C9 by Champion® Glory Memory Foam Sandals - Turquoise XL',
+  upc: '490930965188',
+  price_target: 10.48,
+  price_amazon: undefined }
+{ title: 'Boys\' Teenage Mutant Ninja Turtles 5-Pack Boxer Briefs - Assorted 8',
+  upc: '045299012730',
+  price_target: 12.99,
+  price_amazon: 16.99 }
+{ title: 'Mooshka Goodnight Starlight Doll- Jessa',
+  upc: '035051531883',
+  price_target: 10.48,
+  price_amazon: 31.2 }
+{ title: 'Taylor Gourmet Stainless Steel Oven Temperature Thermometer',
+  upc: '077784562215',
+  price_target: 5.9,
+  price_amazon: undefined }
+{ title: 'Threshold™ Large Tapered Candle Holder - Black/Gold',
+  upc: '490651510629',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'Star Wars The Black Series Bossk Figure',
+  upc: '630509237678',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Girls\' 2-Piece Striped Palm Tree Tankini Set Black M - Xhilaration®',
+  upc: '492220534678',
+  price_target: 10.48,
+  price_amazon: undefined }
+{ title: 'Printed Knit Romper Black M - Mossimo Supply Co.',
+  upc: '490170924952',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Girls‘ Crochet-Knit Shrug - Bashful Pink M',
+  upc: '490320463683',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Men\'s Elastic Waist Swim Trunk Del Rio Blue Colorblock - Merona™ L',
+  upc: '492810031969',
+  price_target: 6.28,
+  price_amazon: undefined }
+{ title: 'Women‘s Button-back Shell - Whipped Papaya S',
+  upc: '490180113124',
+  price_target: 1.53,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Cherokee® Jaslene Sandals - Multicolor 7',
+  upc: '490931003292',
+  price_target: 14.44,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Cherokee® Juliana Sandals - Silver 7',
+  upc: '490931001090',
+  price_target: 12.58,
+  price_amazon: undefined }
+{ title: 'Girl‘s Cherokee® Gwen Wedge Sandals - White 2',
+  upc: '490931101424',
+  price_target: 12.58,
+  price_amazon: undefined }
+{ title: 'Boy\'s C9 by Champion® Percy Memory Foam Sandals - Black S',
+  upc: '490930808485',
+  price_target: 12.74,
+  price_amazon: undefined }
+{ title: 'ASSETS® by Sara Blakely a Spanx® Brand Women‘s Back Smoothing Lace Racerback Natural Glam',
+  upc: '843953290087',
+  price_target: 14,
+  price_amazon: undefined }
+{ title: 'Men\'s S Checkered Shirt Gettysburg Blue - Merona®',
+  upc: '490431014972',
+  price_target: 12.48,
+  price_amazon: undefined }
+{ title: 'Pursonic Rechargeable Oral Irrigator with Nozzles',
+  upc: '490491102893',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Men\'s Activewear Pants - M Ebony',
+  upc: '492810214997',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Having A Ball Hide & Spin Monkey',
+  upc: '074451520943',
+  price_target: 38.33,
+  price_amazon: 38.33 }
+{ title: 'Fujifilm T550 Digital Camera Bundle with Case and 8GB Memory Card',
+  upc: '074101019261',
+  price_target: 159.99,
+  price_amazon: 191.99 }
+{ title: 'Girls\' 1-Piece Rainbow Swimsuit Pink Jelly Bean L - Xhilaration®',
+  upc: '492220514182',
+  price_target: 10.48,
+  price_amazon: undefined }
+{ title: 'Chevron Pencil Skirt Black/White L',
+  upc: '492591221337',
+  price_target: 6.88,
+  price_amazon: undefined }
+{ title: 'Lace Overlay Blouse BlackXLRG',
+  upc: '492590221147',
+  price_target: 6.88,
+  price_amazon: undefined }
+{ title: 'One Piece Swimsuits C9 By Champion XS Yellow',
+  upc: '492381103836',
+  price_target: 29.99,
+  price_amazon: undefined }
+{ title: 'Wood Grain Outdoor Solar Shower',
+  upc: '712910043793',
+  price_target: NaN,
+  price_amazon: 104.98 }
+{ title: 'Women\'s Plume by Faryl Robin Cora Hurache Flat Pink- 7',
+  upc: '840809102037',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Boy\'s Paz Flip Flop Sandals - Grey S',
+  upc: '490930820500',
+  price_target: 2.78,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Circo® Kathryn Polka Dot Sneakers - Mint 11',
+  upc: '490930131125',
+  price_target: 12.74,
+  price_amazon: undefined }
+{ title: 'Girls\' 2-Piece Polka Dot Bikini Set - Fun Pink XL',
+  upc: '492220513284',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'ASSETS® by Sara Blakely a Spanx® Brand Women‘s Back Smoothing Underwire Lace Bra Natural',
+  upc: '843953289869',
+  price_target: 14,
+  price_amazon: undefined }
+{ title: 'Women‘s Sam & Libby Amelia Embellished Footbed Sandals - Cognac 11',
+  upc: '490960225368',
+  price_target: 15.74,
+  price_amazon: undefined }
+{ title: 'Men\'s Straight Fit Jeans Tyler  - Mossimo Supply Co 34X32',
+  upc: '490421114514',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Pro Spirit® Women\'s 6-Pack No Show Athletic Socks - Black/Multi 9-11',
+  upc: '490250402530',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'C9 by Champion® Mens 32 Sport Fleece Sweatpants - Ebony XXL',
+  upc: '492810209658',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Men\'s Court Short - Ebony/True White XL',
+  upc: '490410107985',
+  price_target: 10.18,
+  price_amazon: undefined }
+{ title: 'Chunky Knit Throw Blanket - Red 50X60" - Threshold',
+  upc: '490651532126',
+  price_target: 7.78,
+  price_amazon: undefined }
+{ title: 'Girls\' Stars Pattern Short - Stonewash S',
+  upc: '492050432786',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Girls\' Ikat Print Shortall - Black L',
+  upc: '490320599030',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Girls\' Eyelet Lace Romper - Misty Waterfall S',
+  upc: '490320598910',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Girls\' Ombre Dyed Short Woven Dress - Nettle Green M',
+  upc: '490320464932',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Woven Zip Back Tank Dress Navy/White M',
+  upc: '849707085435',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Girls\' 2-Piece Tropical Tankini Set - Tropical Teal XS',
+  upc: '492220513956',
+  price_target: 10.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Semi-Precious Beaded Stretch Bracelet with Tassel - Black/Gold',
+  upc: '492151034834',
+  price_target: 3.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Pintuck Tank Top Blue Crush L - Cherokee',
+  upc: '492300100540',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Women\'s 3/4 Sleeve Cowl Neck Top Teal XL - Cherokee®',
+  upc: '492300102230',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Toddler Boy\'s Cherokee® Dwayne Sandals - Blue 9',
+  upc: '490930215917',
+  price_target: 15.28,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Hello Kitty Sandals - Pink 9',
+  upc: '490930166318',
+  price_target: 16.14,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Cherokee® Kara Glitter Ballet Flats - Pink 12',
+  upc: '490930163744',
+  price_target: 11.88,
+  price_amazon: undefined }
+{ title: 'Girls\' Lace Jean Shortall - Denim Blue XS',
+  upc: '492050495255',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Threshold™ Madison 6-Piece Aluminum Sectional Seating Set',
+  upc: '769455768728',
+  price_target: 744,
+  price_amazon: undefined }
+{ title: 'Chicco NaturalFit 2pk 12M+ Deco Orthondonic Pacifier - Pink',
+  upc: '049796057188',
+  price_target: NaN,
+  price_amazon: 5.99 }
+{ title: 'Playmobil Rescue Ambulance',
+  upc: '',
+  price_target: 13.74,
+  price_amazon: undefined }
+{ title: 'Women\'s Xhilaration® Mirror Dial Cat Strap Watch - White',
+  upc: '881708105224',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Hexbug  Nano V2 Bridge Battle Set',
+  upc: '807648029932',
+  price_target: 17,
+  price_amazon: undefined }
+{ title: 'Moxie Girlz Camping Adventurez Doll- Kellan',
+  upc: '035051528975',
+  price_target: 6.15,
+  price_amazon: undefined }
+{ title: 'DOC McStuffins Make Me Better Stuffy Playset',
+  upc: '886144902826',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Men\'s Corona Board Short XL',
+  upc: '492810001689',
+  price_target: 8.04,
+  price_amazon: undefined }
+{ title: 'Threshold™ Shiny Gold Vase - Medium',
+  upc: '490651509241',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'Despicable Me Girls\' Minion High-Low Dress - Ivory S',
+  upc: '490320888318',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Girls\' Rolled Cuff Denim Short - Atlantic Blue S',
+  upc: '492050430454',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Newborn Boys\' Top & Bottom Set - Grassy Glen 6-9 M',
+  upc: '492060910274',
+  price_target: 9,
+  price_amazon: undefined }
+{ title: 'Girls\' 2-Piece Flounce Top Bikini Set Aqua S - Xhilaration®',
+  upc: '492220534715',
+  price_target: 11.88,
+  price_amazon: undefined }
+{ title: 'Strapless A Line Dress Black Stripe XL - Mossimo Supply Co.',
+  upc: '490170925546',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Newborn Girls\' Bodysuit Lap Shoulder - Pink Pearl 3-6 M',
+  upc: '492060769964',
+  price_target: 2.5,
+  price_amazon: undefined }
+{ title: 'Newborn Girls\' Bodysuit Lap Shoulder - Radiant Gray 3-6 M',
+  upc: '492060769926',
+  price_target: 2.5,
+  price_amazon: undefined }
+{ title: 'Disney® Mickey Mouse Toddler Boys\' 3-Piece Set - Navy 5T',
+  upc: '490331313410',
+  price_target: 14,
+  price_amazon: undefined }
+{ title: 'Men\'s Swim Trunks Grey - Merona™ M',
+  upc: '492810029614',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Activewear Swim Tops L Black Multi Stripe',
+  upc: '492381103966',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'Pleated Skirt Just Peachy XS',
+  upc: '492590510692',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'Women\'s 5" Chino Short Merona® Xavier Navy Multi 6',
+  upc: '490181107689',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'Women‘s Madeline Flat - Black 6',
+  upc: '490960008305',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Speedo Girls\' Rashguard - Pink M',
+  upc: '011527013435',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Bikini Swim Tops XS Blue Multi Burst',
+  upc: '492381103492',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Girl‘s Rachel Shoes Piper Gladiator Sandals - White 13',
+  upc: '700030999779',
+  price_target: 11.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Lavinia Slide Sandals - Black 5.5',
+  upc: '490960514943',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Toddler Boy\'s Dallas Flip Flop Sandals - Red/Blue S',
+  upc: '490930201842',
+  price_target: 2.78,
+  price_amazon: undefined }
+{ title: 'Girl‘s Cherokee® Honey Sandals - White 3',
+  upc: '490931100946',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'Toddler Girl‘s Cherokee® Jolina Sandals - Neutral 5',
+  upc: '490931001557',
+  price_target: 11.88,
+  price_amazon: undefined }
+{ title: 'Lalaloopsy Sugary Sweet Littles Doll- Whispy Sugar Puff',
+  upc: '',
+  price_target: 11.85,
+  price_amazon: undefined }
+{ title: 'Oakley Loveseat - Latte',
+  upc: '065857167610',
+  price_target: 199.98,
+  price_amazon: undefined }
+{ title: 'Nate Berkus™ Round Tray Decorative Basket',
+  upc: '490650401416',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'ClosetMaid ShelfTrack 4 Drawer Kit - White',
+  upc: '075381028158',
+  price_target: 59.98,
+  price_amazon: undefined }
+{ title: 'Spru L2 MasterChief',
+  upc: '045557356859',
+  price_target: 4.88,
+  price_amazon: undefined }
+{ title: 'Women\'s Sam & Libby Chelsea Genuine Leather Bow Flats - Fawn 10',
+  upc: '490960225894',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Fisher-Price Thomas & Friends Take-N-Play Shark Exhibit Set',
+  upc: '746775205119',
+  price_target: 9.26,
+  price_amazon: undefined }
+{ title: 'Swiss Gear Men\'s Basal Wallet',
+  upc: '848645003921',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Eddie Bauer® Complete Care Playard - Hibiscus',
+  upc: '884392586638',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Adventure Medical Kits Quikclot Sport 50 G',
+  upc: '839241001169',
+  price_target: NaN,
+  price_amazon: 19.25 }
+{ title: 'Printed Foldover Maxi Skirt Coral/Teal M - Lily Star',
+  upc: '492580506773',
+  price_target: 6.28,
+  price_amazon: undefined }
+{ title: 'Threshold™ Gray Lumbar Pillow',
+  upc: '490651533796',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Girls\' Paisley Print Romper - Brilliant Red S',
+  upc: '490320696050',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Sun Dresses Xhilaration Almond Cream Opaque L(10-12)',
+  upc: '490320695671',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Maidenform® Self Expressions® Women\'s T-shirt Bra 5701 2-Pack - Watercolor Animal Print 36B',
+  upc: '078715807733',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Girls\' Ombre Dyed Denim Dress - Blue M',
+  upc: '490320695619',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Girls\' Cat Print A-Line Dress - M Multi',
+  upc: '490320816311',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Female Bikini Swim Bottoms Mossimo Black S BALLTR',
+  upc: '492380130598',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Vivid Purple Strappy Back Bralette Bikini Top S - Mossimo',
+  upc: '492380167877',
+  price_target: 11.48,
+  price_amazon: undefined }
+{ title: 'Vivid Purple Split Tab Side Bikini Bottom S - Mossimo',
+  upc: '492380167921',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Female Bikini Swim Bottoms Mossimo Black M CRUSHO',
+  upc: '492380173182',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Bikini Swim Tops S Blue Grass Mosaic Design',
+  upc: '492380130741',
+  price_target: 11.48,
+  price_amazon: undefined }
+{ title: 'Men\'s Drawstring Knit Shorts Green - Mossimo Supply Co. M',
+  upc: '490420311709',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women\'s Haley Metallic Bow Sandals - White 9.5',
+  upc: '490960512925',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Toddler Boys\' Striped Robot Tee - Retro Green 2T',
+  upc: '490330137512',
+  price_target: 3.5,
+  price_amazon: undefined }
+{ title: 'Faux Wrap Blouse Ivory/Purple M',
+  upc: '849707083400',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Stripe T Shirt Dress - Fresh White Opaque S',
+  upc: '490180932060',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Semi-Precious Beaded Stretch Bracelet - Purple/Gold',
+  upc: '492151034810',
+  price_target: 3.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Enamel Bangle Bracelet Set with Semi-Precious Beads - Black and Gold',
+  upc: '492151034735',
+  price_target: 4.54,
+  price_amazon: undefined }
+{ title: 'Evolve by 2(x)ist - Men\'s Palm Floral Swim Trunks L',
+  upc: '603679194508',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Cherokee® Delsie Floral Print Sandals - Purple 11',
+  upc: '490930113688',
+  price_target: 17,
+  price_amazon: undefined }
+{ title: 'Girl\'s Rachel Shoes Anise Sandals - White 1',
+  upc: '700030000901',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Girl\'s Rachel Shoes Aurelia Wedge Sandals - Brown 1',
+  upc: '700030998840',
+  price_target: 19.54,
+  price_amazon: undefined }
+{ title: 'Women\'s Striped Ponte Pencil Skirt Merona® Ebony 8',
+  upc: '490180505967',
+  price_target: 6.88,
+  price_amazon: undefined }
+{ title: 'Girl\'s Cherokee® Hemlock Gladiator Sandals - White 13',
+  upc: '490931101547',
+  price_target: 16.98,
+  price_amazon: undefined }
+{ title: 'Girl‘s Cherokee® Galya Gladiator Sandals - Silver 4',
+  upc: '490931102070',
+  price_target: 18.68,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Cherokee® Dallon Sandals - Blue 6',
+  upc: '490931003872',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women\'s Jacquard Pencil Skirt Merona® Black 8',
+  upc: '490180505608',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Bikini Swim Tops S Pink Diamond',
+  upc: '492381103058',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'Teenage Mutant Ninja Turtles Electronic Leonardo Mask',
+  upc: '043377923411',
+  price_target: 17.98,
+  price_amazon: undefined }
+{ title: 'Girl\'s Cherokee® Helen Gladiator Sandals - Cognac 2',
+  upc: '490930924536',
+  price_target: 16.08,
+  price_amazon: undefined }
+{ title: 'Maternity Swim Skirt Bottom Black XS-Liz Lange® for Target®',
+  upc: '490290906395',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Women‘s Strappy Bikini Bottom Fuchsia Pink/Slate Grey Stripe XS - Mossimo',
+  upc: '492380153870',
+  price_target: 17.99,
+  price_amazon: undefined }
+{ title: 'Barbie Hairtastic Feature Doll',
+  upc: '887961024210',
+  price_target: 16.78,
+  price_amazon: 19 }
+{ title: 'Threshold™ Jackson Wingback Chair - Turquoise Diamond',
+  upc: '859217230058',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Hanes® Women‘s Waist Cincher T721 Black',
+  upc: '019585658568',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Boy\'s C9 Champion® Enhance Athletic Shoes - Black 2',
+  upc: '490980725756',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'ASSETS® by Sara Blakely a Spanx® Brand Women\'s Shaping Briefs 1644 Nude',
+  upc: '843953187172',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Infant Toddler Girls\' Bow Headband - Pink',
+  upc: '071534472007',
+  price_target: 2.5,
+  price_amazon: undefined }
+{ title: 'Mid-Rise Bootcut Jeans (Modern Fit) Dark Wash 14 - Mossimo®',
+  upc: '490140940135',
+  price_target: 11.18,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Hello Kitty Canvas - Pink 12',
+  upc: '490930144699',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women\'s Seamless Thong Black Rugby - Xhilaration™ - L(11-13)',
+  upc: '490220441804',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Men\'s Marvel Super Hero Board Shorts',
+  upc: '492810024916',
+  price_target: 8.04,
+  price_amazon: undefined }
+{ title: 'Girls\' A-Line Tulle Dress - 10 Off White',
+  upc: '811959028799',
+  price_target: 19.98,
+  price_amazon: undefined }
+{ title: 'Tankini Tops M Black Tie Solid',
+  upc: '492380160977',
+  price_target: 12.48,
+  price_amazon: undefined }
+{ title: 'Girl‘s Miss Vogue® Summer Camp Sandals - Black 2',
+  upc: '805040403848',
+  price_target: 12.48,
+  price_amazon: undefined }
+{ title: 'G-Cutee® Newborn Boys\' Tie Shirtall - White 6-12 M',
+  upc: '849115089568',
+  price_target: 12.48,
+  price_amazon: undefined }
+{ title: 'G-Cutee® Newborn Boys\' Check Shirtall - Blue/Yellow 3-6 M',
+  upc: '849115076926',
+  price_target: 12.48,
+  price_amazon: undefined }
+{ title: 'Faux Wrap Blouse Bright Coral XXLRG',
+  upc: '492590220843',
+  price_target: 6.88,
+  price_amazon: undefined }
+{ title: 'Open Shoulder Blouse Palm Print Black/White L',
+  upc: '492591222297',
+  price_target: 6.88,
+  price_amazon: undefined }
+{ title: 'Toddler Boys\' Angler Fish Tee - Gray Mist 3T',
+  upc: '490330118580',
+  price_target: 3.5,
+  price_amazon: undefined }
+{ title: 'Lace Shoulder Blouse Blue Violet XS',
+  upc: '492590221031',
+  price_target: 6.88,
+  price_amazon: undefined }
+{ title: 'Men\'s Swim Trunk Tropical Print - Merona™ XL',
+  upc: '492810032379',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Clover Leaf Irish Flag Graphic Sweatshirt Green S',
+  upc: '490060200081',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Semi-Precious Beaded Stretch Bracelet with Tassel - Pink/Gold',
+  upc: '492151034841',
+  price_target: 3.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Revel Layla Fisherman Sandals - Black 10',
+  upc: '889039555893',
+  price_target: 19.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Mercer Emme Caged Sandals - Black 9',
+  upc: '889039558924',
+  price_target: 19.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Lace Tank Blush Peach M - Cherokee',
+  upc: '492300002011',
+  price_target: 6,
+  price_amazon: undefined }
+{ title: 'Women\'s Short Necklace with Stones- Gold (18")',
+  upc: '492151033011',
+  price_target: 5.94,
+  price_amazon: 37.24 }
+{ title: 'Men‘s Sean Flip Flop Sandals - Navy S',
+  upc: '490980111337',
+  price_target: 2.78,
+  price_amazon: undefined }
+{ title: 'Women\'s No Show Socks 2 pack Gold - Xhilaration®',
+  upc: '490250508515',
+  price_target: 1.5,
+  price_amazon: undefined }
+{ title: 'C9 Champion Men\'s Solid Board Shorts - Ebony 36',
+  upc: '492810105127',
+  price_target: 9.78,
+  price_amazon: undefined }
+{ title: 'Women\'s Festival Beaded Ankle Strap Sandals - Black 9',
+  upc: '490960516763',
+  price_target: 12.48,
+  price_amazon: undefined }
+{ title: 'Girl\'s Rachel Shoes Anastasia Gladiator Sandals - Silver 4',
+  upc: '700030999571',
+  price_target: 19.54,
+  price_amazon: 32.99 }
+{ title: 'Peanuts\' Belle Infant Toddler Girls "Sweet Heart" Short Sleeve Tee - Ivory 2T',
+  upc: '490311332943',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Women\'s Shauna Huarache Sandals - Blue 11',
+  upc: '490960601148',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Short Sleeve Crop Top Vivid Blue M(7-9) - Mossimo Supply Co.',
+  upc: '490170331545',
+  price_target: 5.94,
+  price_amazon: undefined }
+{ title: 'Women‘s Julie Wedges - Black 10',
+  upc: '490960402035',
+  price_target: 23.08,
+  price_amazon: undefined }
+{ title: 'Girl\'s Cherokee® Fizz Wedge Sandals - White 1',
+  upc: '490931101905',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Mad Love® Marian Slide Sandals - Black 8',
+  upc: '490960405661',
+  price_target: 14.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Mad Love® Lydia Loafers - Blue 7',
+  upc: '490961216815',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'Teenage Mutant Ninja Turtles Electronic Michelangelo Mask',
+  upc: '043377923435',
+  price_target: 19.79,
+  price_amazon: 24.99 }
+{ title: 'My Little Pony Equestria Girls Rainbow Rocks Sunset Shimmer Time to Shine Doll',
+  upc: '630509274871',
+  price_target: 16.08,
+  price_amazon: 16.98 }
+{ title: 'C9 Champion® Men\'s Micro Fleece Pants - Railroad Gray XL',
+  upc: '492810217561',
+  price_target: 11.98,
+  price_amazon: undefined }
+{ title: 'Mooshka Goodnight Starlight Doll- Dasha',
+  upc: '035051531876',
+  price_target: 7.48,
+  price_amazon: 27.87 }
+{ title: 'Graco® Ready2Dine 2-in-1 Highchair - Darla',
+  upc: '047406123988',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'DOC McStuffins Make Me Better Lambie Playset',
+  upc: '886144902819',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'ASSETS® by Sara Blakely a Spanx® Brand Women‘s Scoop Neck Tank 1643 White',
+  upc: '490220818170',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women\'s Merona® Brush Stroke Scarf - Grey',
+  upc: '490610821346',
+  price_target: 5.24,
+  price_amazon: undefined }
+{ title: 'F Xhilaration Fashion Shorts NVY L',
+  upc: '030121295474',
+  price_target: 16.08,
+  price_amazon: undefined }
+{ title: 'Chiffon Maxi Dress White/Red L',
+  upc: '689284032466',
+  price_target: 24.98,
+  price_amazon: undefined }
+{ title: 'Men\'s Star Wars Board Short S',
+  upc: '492810024787',
+  price_target: 8.04,
+  price_amazon: undefined }
+{ title: 'Men\'s Surfing Batman Board Shorts',
+  upc: '492810024633',
+  price_target: 8.04,
+  price_amazon: undefined }
+{ title: 'Leisure Romper Gray Space S - Mossimo Supply Co.',
+  upc: '490170925102',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Leisure Romper Ink Pad M - Mossimo Supply Co.',
+  upc: '490170924891',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women\'s Mesh High Neck Halter Bikini Top Black S - Mossimo',
+  upc: '492380162100',
+  price_target: 11.48,
+  price_amazon: undefined }
+{ title: 'Tankini Tops S Majestic Purple Chevron',
+  upc: '492380168027',
+  price_target: 12.48,
+  price_amazon: undefined }
+{ title: 'Bikini Swim Tops M Exotic Purple Chevron',
+  upc: '492380167983',
+  price_target: 11.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Print Mesh Inset Strappy Back One Piece Ivory White/Black S - Mossimo',
+  upc: '492380162698',
+  price_target: 19.98,
+  price_amazon: undefined }
+{ title: 'Printed Maxi Dress Navy Coral S - Lots of Love by Speechless',
+  upc: '601350586789',
+  price_target: 11.98,
+  price_amazon: undefined }
+{ title: 'Cage Back Printed A Line Dress Navy 13 - Lots of Love by Speechless',
+  upc: '601350582880',
+  price_target: 11.18,
+  price_amazon: undefined }
+{ title: 'Printed Skater Dress Pink XL - Mossimo Supply Co.',
+  upc: '490170993750',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Girls\' Floral Tank - Pink Azalea L',
+  upc: '490320395281',
+  price_target: 3.5,
+  price_amazon: undefined }
+{ title: 'Toddler Boys\' Heathered Pocket Tee - Zest Orange 2T',
+  upc: '490330399491',
+  price_target: 2.75,
+  price_amazon: undefined }
+{ title: 'Women\'s Plus Size Chino Shorts Black/White 24W-Ava & Viv',
+  upc: '490210023157',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Plus Size V Neck Top Pink 2X - Ava & Viv',
+  upc: '490210220570',
+  price_target: 6.88,
+  price_amazon: undefined }
+{ title: 'Girl\'s Miss Vogue® Ditsy Sandals - Gold 13',
+  upc: '805040402865',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Chor Men‘s Mineral Wash Tee - Blue XL',
+  upc: '670898572943',
+  price_target: 11.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Enamel Bangle Bracelet Set with Semi-Precious Beads - Purple and Gold',
+  upc: '492151034773',
+  price_target: 4.54,
+  price_amazon: undefined }
+{ title: 'Women\'s Semi-Precious Beaded Stretch Bracelet with Tassel - Turquoise/Gold',
+  upc: '492151034858',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Girls\' Striped Tank Top - Blu Iris L',
+  upc: '490320339230',
+  price_target: 3.5,
+  price_amazon: undefined }
+{ title: 'Women\'s Plume Christina Heel Sandals - White 9.5',
+  upc: '840809102419',
+  price_target: 24.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Short Sleeve Scoop Neck Tee Fuchsia Red Print XL - Cherokee',
+  upc: '492300003834',
+  price_target: 5,
+  price_amazon: undefined }
+{ title: 'Girls\' Hello Kitty Rectangle Sunglasses',
+  upc: '492020914830',
+  price_target: 2.98,
+  price_amazon: undefined }
+{ title: 'Evolve by 2(x)ist - Men\'s Geo Swim Trunks Blue M',
+  upc: '603679178157',
+  price_target: 10.78,
+  price_amazon: undefined }
+{ title: 'Eddie Bauer® TriTrek Travel System - Oasis',
+  upc: '884392585594',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Conair Infiniti Pro Adjust Curl Hair Rollers',
+  upc: '490630904715',
+  price_target: 24.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Solid Tote Handbag with Knot Handle Detailing Gray - Merona™',
+  upc: '490240614738',
+  price_target: 27.98,
+  price_amazon: undefined }
+{ title: 'Avengers Toddler Boys\' Block Tee - Red 3T',
+  upc: '490331322894',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women\'s A line Dress - Black XS',
+  upc: '490180935115',
+  price_target: 8.38,
+  price_amazon: undefined }
+{ title: 'Citrus Orange Cross Back Textured Flounce Bralette Bikini Top M - Mossimo',
+  upc: '492380173137',
+  price_target: 11.48,
+  price_amazon: undefined }
+{ title: 'Tankini Tops XL Breen Mosaic Design',
+  upc: '492380128939',
+  price_target: 12.48,
+  price_amazon: undefined }
+{ title: 'Blouson Bodycon Dress Mint/Black L - Lots of Love by Speechless',
+  upc: '601350534971',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Toddler Boys\' Knit Cargo Short - Charcoal 5T',
+  upc: '490330138588',
+  price_target: 3,
+  price_amazon: undefined }
+{ title: 'Caftan Chevron Blouse Black/White XXL',
+  upc: '492591220996',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Strappy Fit & Flare Dress Coral L - Xhilaration®',
+  upc: '492820930528',
+  price_target: 12.48,
+  price_amazon: undefined }
+{ title: 'Women‘s Judith Jewel Embellished Slide Sandals - White 7',
+  upc: '490960516626',
+  price_target: 11.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Plus Size Chino Shorts Black 26W-Ava & Viv',
+  upc: '490210023096',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Girl\'s Miss Vogue® Ditsy Sandals - Multicolor 13',
+  upc: '805040402957',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Enamel Bangle Bracelet Set with Semi-Precious Beads - White and Gold',
+  upc: '492151034780',
+  price_target: 4.54,
+  price_amazon: undefined }
+{ title: 'Women\'s Mercer Eva Footbed Sandals - Black 8',
+  upc: '889039559402',
+  price_target: 14.98,
+  price_amazon: undefined }
+{ title: 'C9 Champion Men\'s Swell Stripe Board Shorts  - Ebony 32',
+  upc: '492810100092',
+  price_target: 9.78,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Men\'s Pullover - Blue L',
+  upc: '490410808714',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Boy‘s Pablo Sandals - Black M',
+  upc: '490930820432',
+  price_target: 1.98,
+  price_amazon: undefined }
+{ title: 'C9 Champion Men\'s Honeycomb Board Shorts  -   Red Spark 34',
+  upc: '492810105233',
+  price_target: 9.78,
+  price_amazon: undefined }
+{ title: 'Men\'s Board Shorts Blue - ZeroXposur 34',
+  upc: '887219471032',
+  price_target: 11.18,
+  price_amazon: undefined }
+{ title: 'Women\'s Micro Thong Cherry Blossom - Gilligan & O\'Malley®',
+  upc: '490220549388',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women‘s Micro Laser Thong Orange Dream - Gilligan & O‘Malley®',
+  upc: '490220549456',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Boy‘s Shaun White Gower Sneakers - Black 13',
+  upc: '490930835559',
+  price_target: 22.94,
+  price_amazon: undefined }
+{ title: 'Women\'s Caged Rylee Heel-Cognac 11',
+  upc: '490960401748',
+  price_target: 24.48,
+  price_amazon: undefined }
+{ title: 'Womens Rita Espadrille Flats - Black 9.5',
+  upc: '490960011503',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Evolve by 2(x)ist - Men\'s Camo Swim Trunks XL',
+  upc: '603679178256',
+  price_target: 10.78,
+  price_amazon: undefined }
+{ title: 'Mallory Upholstered Armless Chair - Navy/Neutral',
+  upc: '859217274403',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women‘s All Over Lace Hipster Rose Marabou - Gilligan & O‘Malley®',
+  upc: '490220539044',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women‘s Seamless Lace Thong Rose Marabou - Gilligan & O‘Malley®',
+  upc: '490220545892',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Disney Princess Palace Pets Magic Dance Pumpkin',
+  upc: '658382106140',
+  price_target: 20.98,
+  price_amazon: undefined }
+{ title: 'Swiss Gear Men\'s Genuine Leather Reversible Belt with Plaque Buckle - Charcoal M',
+  upc: '043345467978',
+  price_target: 24.99,
+  price_amazon: undefined }
+{ title: 'Avengers Super 3D Puzzle',
+  upc: '047754577051',
+  price_target: 10.77,
+  price_amazon: 5.98 }
+{ title: 'Threshold™ Linden 2-Piece Sling Dining Chair Set',
+  upc: '769455767790',
+  price_target: 107.4,
+  price_amazon: undefined }
+{ title: 'DENIZEN® from Levi\'s®  - Men\'s Straight Fit Jeans Illusion  32X32',
+  upc: '052175676276',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Maidenform® Self Expressions® Women‘s Suddenly Skinny! Simply Better Torsette Shapewear',
+  upc: '014671139372',
+  price_target: 11.48,
+  price_amazon: undefined }
+{ title: 'Fable: The Journey (Xbox 360)',
+  upc: '492072207256',
+  price_target: 24.98,
+  price_amazon: undefined }
+{ title: 'Swiss Gear Men\'s Genuine Leather Reversible Buckle Twist Belt - Black M',
+  upc: '043345423042',
+  price_target: 24.99,
+  price_amazon: undefined }
+{ title: 'Men\'s Merona® Rosen Dress Shoe - Black 7',
+  upc: '490980007524',
+  price_target: 25.48,
+  price_amazon: undefined }
+{ title: 'Peanuts Girls\' Snoopy Graphic Tee - Light Pink S',
+  upc: '490320845366',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'Girls\' Seahorse Graphic Tee - Pleasant Turquoise S',
+  upc: '490320043649',
+  price_target: 3,
+  price_amazon: undefined }
+{ title: 'Boys\' Cats n\' Tacos Tee -  Heather Grey XS',
+  upc: '490760686222',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Newborn Girls\' Chino Shorts - White 0-3 M',
+  upc: '492060750030',
+  price_target: 3.5,
+  price_amazon: undefined }
+{ title: 'Batman Girls\' Graphic Tank - Blue XS',
+  upc: '889484025873',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'V-Neck Tee Shirt Deep Periwinkle XL - Mossimo Supply Co.',
+  upc: '490170040256',
+  price_target: 3.6,
+  price_amazon: undefined }
+{ title: 'Toddler Boys‘ 3-Piece Gingham Check Short Set - Aerial Blue 4T',
+  upc: '849115076278',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'G-Cutee® Newborn Boys\' 3 Piece Set - Light Blue/Mint Green 18 M',
+  upc: '849115076230',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Toddler Boys\' Striped Pocket Tee - Acacia Leaf 2T',
+  upc: '490330399194',
+  price_target: 2.75,
+  price_amazon: undefined }
+{ title: 'Tankini Tops M Grey Animal Print',
+  upc: '096613107731',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Semi-Precious Beaded Stretch Bracelet - White/Gold',
+  upc: '492151034827',
+  price_target: 3.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Enamel Bangle Bracelet Set with Semi-Precious Beads - Pink and Gold',
+  upc: '492151034759',
+  price_target: 4.54,
+  price_amazon: undefined }
+{ title: 'Women\'s Enamel Bangle Bracelet Set with Semi-Precious Beads - Coral and Gold',
+  upc: '492151034742',
+  price_target: 4.54,
+  price_amazon: undefined }
+{ title: 'Women\'s Semi-Precious Beaded Multiple Layer Necklace - Coral/Gold (34")',
+  upc: '492151035190',
+  price_target: 5.94,
+  price_amazon: undefined }
+{ title: 'Women\'s Raw Edge Ruffle Tank w/Lace Pastel Blue M - Cherokee',
+  upc: '492300100359',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Women‘s Soho Cobbler Alyson Woven Elastic Comfort Wedge Sandals - Black 9',
+  upc: '490961810785',
+  price_target: 19.98,
+  price_amazon: undefined }
+{ title: 'Men\'s Wicked Teal Board Shorts – R-Way by ZeroXposur - 32',
+  upc: '887219471476',
+  price_target: 11.18,
+  price_amazon: undefined }
+{ title: 'Women‘s Skyler Platform Wedge - Black/White 9',
+  upc: '490960402219',
+  price_target: 20.98,
+  price_amazon: undefined }
+{ title: 'Toddler Boy‘s Cherokee® David Sandals - Navy S',
+  upc: '490930240841',
+  price_target: 6.78,
+  price_amazon: undefined }
+{ title: 'Toddler Boy‘s Shaun White Davon Pug Print Sandals - Black L',
+  upc: '490930240940',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Star Wars Inquisitor’s TIE Advanced Prototype Starfighter Vehicle and The Inquisitor Figure',
+  upc: '',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Women\'s C9 Champion® Charge Performance Athletic Shoes - Pink 7',
+  upc: '490980717324',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Women‘s Mazie Platform Wedges - Silver 6',
+  upc: '490960400147',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Bali Wicker Patio Dining Table',
+  upc: '843045024408',
+  price_target: 119.7,
+  price_amazon: undefined }
+{ title: 'Disney® Frozen Girls\' Elsa and Anna Tee - White M',
+  upc: '490320811439',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'SugarBooger Handled Sippy Cup - Ladybug',
+  upc: '732389019082',
+  price_target: NaN,
+  price_amazon: 14.14 }
+{ title: 'Swiss Gear Men\'s Genuine Leather Belt - Black L',
+  upc: '848645003983',
+  price_target: 24.99,
+  price_amazon: undefined }
+{ title: 'Short Columbo Gourd Vase White - 7.75" by Torre & Tagus',
+  upc: '626404207311',
+  price_target: 27.98,
+  price_amazon: 39.56 }
+{ title: 'Avington Upholstered Slipper Chair - Heathered Textured Slate',
+  upc: '859217170439',
+  price_target: 84.98,
+  price_amazon: undefined }
+{ title: 'Threshold™ Squier Patio Firepit Table',
+  upc: '490090000200',
+  price_target: 119.4,
+  price_amazon: undefined }
+{ title: 'LeapFrog® LeapReader™ Junior Book Pal - Violet',
+  upc: '708431212022',
+  price_target: 20,
+  price_amazon: 19.98 }
+{ title: 'Atlantis Wicker Rectangular Patio 72" Dining Table',
+  upc: '721015728511',
+  price_target: 192,
+  price_amazon: undefined }
+{ title: 'Captain America Toddler Boys\' Daddy\'s Lil Hero Tee - Heather Gray 2T',
+  upc: '490331324997',
+  price_target: 4,
+  price_amazon: undefined }
+{ title: 'Men\'s WD·NY Black Suit Vest Black M',
+  upc: '490730601521',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Girls\' Flowy Tank - Pink Azalea M',
+  upc: '490320467223',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'The Who Toddler Boys\' Tee - Charcoal Heather 2T',
+  upc: '490331311911',
+  price_target: 7,
+  price_amazon: undefined }
+{ title: 'Spiderrman Girls\' Graphic Tank - White M',
+  upc: '889484025828',
+  price_target: 4.48,
+  price_amazon: undefined }
+{ title: 'Girls\' Capri Legging - Baracoa Violet XXL',
+  upc: '490320033138',
+  price_target: 3,
+  price_amazon: undefined }
+{ title: 'Girls\' Floral Graphic Tee - Fresh White S',
+  upc: '490320467490',
+  price_target: 4.98,
+  price_amazon: undefined }
+{ title: 'Girls\' Sun Glasses Graphic Tee - Moxie Peach M',
+  upc: '490320467551',
+  price_target: 4.98,
+  price_amazon: undefined }
+{ title: 'G-Cutee® Newborn Boys\' 3 Piece Set - Red/Khaki 3-6 M',
+  upc: '849115076315',
+  price_target: 16.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Mercer Violet Double Ankle Strap Heels - Black 11',
+  upc: '889039668531',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Flutter Jumpsuit L EBONY',
+  upc: '492590932814',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Sleeveless Cupcake Dress Black/Blush 7 - Lily Star',
+  upc: '492580908775',
+  price_target: 13.98,
+  price_amazon: undefined }
+{ title: 'Girls\' Glitter Pineapple Graphic Tank -  S Sunrise Coral',
+  upc: '490320048514',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Supergirl Toddler Girls Raglan Tee - Lite Pink 3T',
+  upc: '888111710014',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Hanes® Women\'s Cozy Bra G196 - Blue Stripe XL',
+  upc: '019585682884',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Disney Princess Flip Flop Sandals - Pink 12',
+  upc: '079092776247',
+  price_target: 8.48,
+  price_amazon: undefined }
+{ title: 'Toddler Boy\'s Spiderman Water Shoes - Red 11',
+  upc: '079092191521',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women\'s Revel Frankie Slip-ons - Black 9.5',
+  upc: '889039555138',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Mercer Julie Lace Up Wedge Sandals - White 8.5',
+  upc: '889039561160',
+  price_target: 22.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Ruffle Front Tank Dazzleberry L - Cherokee',
+  upc: '492300101141',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Plume by Faryl Robin Tucker Espadrille Gold- 7.5',
+  upc: '840809100613',
+  price_target: 17.48,
+  price_amazon: undefined }
+{ title: 'Women\'s Ruffle Tank Peacoat M - Cherokee®',
+  upc: '492300004114',
+  price_target: 5,
+  price_amazon: undefined }
+{ title: 'Toddler Girl\'s Hello Kitty Flip Flop Sandals - Silver L',
+  upc: '490931004695',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Women‘s Soho Cobbler Alyse Woven Elastic Comfort Wedge Slide Sandals - Black 8',
+  upc: '490961810983',
+  price_target: 19.98,
+  price_amazon: undefined }
+{ title: 'Toddler Boy\'s Spiderman Sandals - Black M(7-8)',
+  upc: '490930240971',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Boyshort Butterfly Print Peach - Xhilaration™ - M(7-9)',
+  upc: '490220441873',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Plus Size Sleeveless Crochet Detail Maxi Dress Purple 1X-Mossimo Supply Co.',
+  upc: '490210304478',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Women‘s Leah Criss Cross Wooden Wedge - Cognac 6',
+  upc: '490960402356',
+  price_target: 8.07,
+  price_amazon: undefined }
+{ title: 'Girl\'s Circo® Hailey Floral Print Flip Flop Sandals - Pink XL',
+  upc: '490931102650',
+  price_target: 6.98,
+  price_amazon: undefined }
+{ title: 'Minecraft Boys\' Love Bomb Graphic Tee - White L',
+  upc: '490760679330',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Women\'s Seamless Boyshort Sheer Turquoise - Xhilaration™ - L(11-13)',
+  upc: '490220442788',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Dolce Arm Chair - Mod Motifs Red',
+  upc: '859217273789',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Boys\' Whale Rash Guard - Blue 7',
+  upc: '492170426283',
+  price_target: 5,
+  price_amazon: undefined }
+{ title: 'ClosetMaid Suite Symphony Adjustable Shoe Shelf - White',
+  upc: '089066088771',
+  price_target: 17.98,
+  price_amazon: undefined }
+{ title: 'Girl\'s Soft Bralette- Navy 30A',
+  upc: '490361013632',
+  price_target: 6.99,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Men\'s Quarter Zip - Ebony L',
+  upc: '490410402431',
+  price_target: 9.98,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Women\'s Capri Legging Black XS',
+  upc: '492140635639',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Andis - EasyClip Groom Kit',
+  upc: '040102657856',
+  price_target: 62.98,
+  price_amazon: 62.98 }
+{ title: 'Mega Bloks® Call of Duty Light Armor Firebase',
+  upc: '065541068179',
+  price_target: 17.85,
+  price_amazon: 30.31 }
+{ title: 'Mega Bloks Halo UNSC Broadsword Midnight Strike',
+  upc: '065541973800',
+  price_target: 39.78,
+  price_amazon: 48.95 }
+{ title: 'Mudhut™ Handwoven Zig Zag Toss Pillow (18x18")',
+  upc: '490670806260',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Xhilaration - Sportpack - Lace',
+  upc: '490691000807',
+  price_target: 8.98,
+  price_amazon: undefined }
+{ title: 'Turbo Plush Decorative Pillow',
+  upc: '087918128491',
+  price_target: 13.98,
+  price_amazon: 9.31 }
+{ title: 'Maidenform® Self Expressions® Women\'s  Convertible Racerback/Strapless Bras 5562 2-Pack - Latte/White 36D',
+  upc: '014671148541',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Boys\' Snoopy Graphic Tee - Navy S',
+  upc: '490760630713',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Plus Size Ikat One Piece Swimsuit Magenta (22W) - VM',
+  upc: '493101400396',
+  price_target: 27.98,
+  price_amazon: undefined }
+{ title: 'Spongebob Girls\' Graphic Tank - turquoise Heather M',
+  upc: '490320829434',
+  price_target: 3.98,
+  price_amazon: undefined }
+{ title: 'Back Cross Strap A Line Dress Butterfly Print  S',
+  upc: '840392127417',
+  price_target: 19.98,
+  price_amazon: undefined }
+{ title: 'Lego Boys\' Darth Vader Graphic Tee -  Red XS',
+  upc: '490760684341',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Newborn Boys\' Top And Bottom Set - True White 0-3 M',
+  upc: '492060367870',
+  price_target: 6,
+  price_amazon: undefined }
+{ title: 'Just One You™Made by Carter\'s® Toddler Boys\' Plaid Chino Short - Turquoise 18 M',
+  upc: '888510719298',
+  price_target: 5.48,
+  price_amazon: undefined }
+{ title: 'HK Clctns Evy Grey M',
+  upc: '490320850421',
+  price_target: 4.98,
+  price_amazon: undefined }
+{ title: 'Women\'s Knit Embroidered Short Sleeve Tee White L - Isani for Target',
+  upc: '492300103299',
+  price_target: 12.24,
+  price_amazon: undefined }
+{ title: 'Infant Girls\' Chicco® Perforated Leather Slide Sandals - White 3',
+  upc: '',
+  price_target: 34.98,
+  price_amazon: undefined }
+{ title: 'F Tank Tops GRAY S',
+  upc: '490320511018',
+  price_target: 6.48,
+  price_amazon: undefined }
+{ title: 'Men\'s 32 Plaid Walking Shorts Multicolor - Olde School',
+  upc: '803389601857',
+  price_target: 34.98,
+  price_amazon: undefined }
+{ title: 'Toddler Boys\' Skull Tee and Short Set - Navy Voyage 4T',
+  upc: '490330121719',
+  price_target: 5.48,
+  price_amazon: undefined }
