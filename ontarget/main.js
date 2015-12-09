@@ -11,7 +11,7 @@ function getURL(page){
 
 function parseProducts(data, onProduct){
   data.searchResponse.items.Item.forEach(function(item){
-    onProduct({title:item.title, upc:item.upc, asin:item.itemAttributes.asin});
+    onProduct({title:item.title, upc:item.upc, asin:item.itemAttributes.asin, price: item.priceSummary.offerPrice.amount});
   });
   return data.searchResponse.items.Item.length;
 }
