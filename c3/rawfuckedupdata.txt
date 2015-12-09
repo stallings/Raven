@@ -1,0 +1,160 @@
+{ title: 'Bounce-Off Game',
+  upc: '887961007886',
+  price_target: 12.39,
+  price_amazon: 14.8 }
+{ title: 'My Little Pony Equestria Girls Rainbow Rocks Sunset Shimmer Doll with Fashions',
+  upc: '653569988977',
+  price_target: 10.98,
+  price_amazon: undefined }
+{ title: 'Ker Plunk Game',
+  upc: '085633070927',
+  price_target: 14.99,
+  price_amazon: 16.89 }
+{ title: 'My Little Pony Equestria Girls Rainbow Rocks Rarity Doll with Fashions',
+  upc: '653569990529',
+  price_target: 9.98,
+  price_amazon: 9.87 }
+{ title: 'Women‘s Plus-Size 50 Denier Opaque Tights Black - Merona®',
+  upc: '490250044273',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Monster High New Scaremester Twyla Doll',
+  upc: '746775359713',
+  price_target: 8.94,
+  price_amazon: undefined }
+{ title: 'Make Your Case Maker',
+  upc: '792189570060',
+  price_target: 6.47,
+  price_amazon: undefined }
+{ title: 'Smith & Hawken® Curled Wood Tabletop Christmas Tree with Berries Red - Small',
+  upc: '490650108261',
+  price_target: 19.99,
+  price_amazon: undefined }
+{ title: 'Boys\' 6-Pack Casual Socks -  Flat Grey 3-10',
+  upc: '490360501055',
+  price_target: 5.49,
+  price_amazon: undefined }
+{ title: 'Nickelodeon, Paw Patrol Pup Buddies Figure Gift Set',
+  upc: '778988092941',
+  price_target: 24.99,
+  price_amazon: 32.9 }
+{ title: 'Hape Mini Kitchen',
+  upc: '878318004511',
+  price_target: NaN,
+  price_amazon: 26.75 }
+{ title: 'Radica Pup Alert Motion Sensor Alarm',
+  upc: '027084937190',
+  price_target: 7.48,
+  price_amazon: 3.99 }
+{ title: 'Xshot Excel Xcess Dart and Disc Blaster Double Pack Shootout Set',
+  upc: '845218007706',
+  price_target: 13.98,
+  price_amazon: 12.59 }
+{ title: 'Hape Stacking Blocks',
+  upc: '878318003620',
+  price_target: NaN,
+  price_amazon: 16.6 }
+{ title: 'Star Wars Anakin\'s Jedi Starfighter',
+  upc: '490870613828',
+  price_target: 19.25,
+  price_amazon: undefined }
+{ title: 'Boys\' 6-Pack Ankle Socks - Multi 9-2.5',
+  upc: '490360502779',
+  price_target: 5.49,
+  price_amazon: undefined }
+{ title: 'Smith & Hawken™ Birch Trunk Star Lantern Candle Holder - 4',
+  upc: '490650110547',
+  price_target: 7.99,
+  price_amazon: undefined }
+{ title: 'Wonderology – Science Kit – Wacky Fluid Experiment',
+  upc: '778988080498',
+  price_target: 9.34,
+  price_amazon: 8 }
+{ title: 'Hape Wooden Train',
+  upc: '878318003637',
+  price_target: NaN,
+  price_amazon: 17.4 }
+{ title: 'Smith & Hawken® Curled Wood Tabletop Christmas Tree with Berries Red - Large',
+  upc: '490650108254',
+  price_target: 23.99,
+  price_amazon: undefined }
+{ title: 'Disney Princess Palace Pets Beauty and Bliss Tiana\'s Kitty Lily Playset',
+  upc: '658382532642',
+  price_target: 8.3,
+  price_amazon: undefined }
+{ title: 'Girls\' 6-Pack Athletic Crew Socks - Purple/Blue/Pink 9-2.5',
+  upc: '490360303277',
+  price_target: 5.49,
+  price_amazon: undefined }
+{ title: 'Women‘s Waffle Knit Robe Ballad Blue - Gilligan & O‘Malley®',
+  upc: '490200102190',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Star Wars™ Command Final Battle Set',
+  upc: '653569991670',
+  price_target: 9.39,
+  price_amazon: 10.02 }
+{ title: 'Hape Rainbow Xylophone',
+  upc: '878318004474',
+  price_target: NaN,
+  price_amazon: 15 }
+{ title: 'Fisher-Price® Nickelodeon Dora and Friends Cafe',
+  upc: '746775346270',
+  price_target: 22.48,
+  price_amazon: 22.48 }
+{ title: 'WWE Double Attack Total Control Takedown Playset',
+  upc: '887961042825',
+  price_target: 20.79,
+  price_amazon: 22.57 }
+{ title: 'Disney&#174 Toddler Girls\' Frozen Tee - Gray 5T',
+  upc: '493080300342',
+  price_target: 4.5,
+  price_amazon: undefined }
+{ title: 'Girl\'s 10 Pack Ankle Socks - Assorted Colors M',
+  upc: '077039118167',
+  price_target: 6.99,
+  price_amazon: undefined }
+{ title: 'Drink Chilling Stones',
+  upc: '490441502995',
+  price_target: 7.48,
+  price_amazon: undefined }
+{ title: 'C9 Champion® Women\'s Power Core Racer Sports Bra Flashlight M',
+  upc: '492140536882',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'LeapFrog® LeapPad On-the-Go Accessories Bundle',
+  upc: '708431630123',
+  price_target: 15.75,
+  price_amazon: 12.99 }
+{ title: 'Boys\' Fruit Of The Loom&#174 5-pack Boxer Briefs - Assorted Colors S',
+  upc: '076031385584',
+  price_target: 10.59,
+  price_amazon: 10.46 }
+{ title: 'Yoga Pant Black L(11-13) - Mossimo Supply Co.',
+  upc: '490171000457',
+  price_target: 5.98,
+  price_amazon: undefined }
+{ title: 'Boys\' 6-Pack Ankle Socks - Gray  9-2.5',
+  upc: '490360505589',
+  price_target: 5.49,
+  price_amazon: undefined }
+{ title: 'Adam Lippes for Target Cocktail Mixing Glass',
+  upc: '490100000589',
+  price_target: 6.25,
+  price_amazon: undefined }
+{ title: 'Adam Lippes for Target Cocktail Glasses with Silver - 4ct',
+  upc: '490100000572',
+  price_target: 6.25,
+  price_amazon: undefined }
+{ title: 'Chuggington StackTrack Checker Station Set',
+  upc: '796714542379',
+  price_target: 15.53,
+  price_amazon: 15.53 }
+{ title: 'Boys\' Fruit Of The Loom&#174 5-pack Prints and Solids Boxer Briefs - Multicolor M',
+  upc: '885306153311',
+  price_target: NaN,
+  price_amazon: undefined }
+{ title: 'Xploderz Mayhem',
+  upc: '792189452502',
+  price_target: 13.86,
+  price_amazon: undefined }
